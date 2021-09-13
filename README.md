@@ -21,5 +21,6 @@ implement economic of crowdhero token : https://whitepaper.crowdhero.co/token-ec
 6. Operation  : 105,000,000 crwd
 - Rewards & Liquidity Pool 
 - https://bscscan.com/address/0x3556Fe3c5761769c8E5957979d969e74779719d0
+7. Initial LP : 4,000,000 crwd 
 # Business
 - Contracts lock and release crwd base on "Tokens Distribution Plan after Burned" in https://whitepaper.crowdhero.co/token-economics
