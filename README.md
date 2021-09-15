@@ -1,5 +1,6 @@
 # crowdhero_economic
-implement economic of crowdhero token : https://whitepaper.crowdhero.co/token-economics
+- implement economic of crowdhero token : https://whitepaper.crowdhero.co/token-economics
+- Token CRWD : https://bscscan.com/address/0xcA76A652AC3c3F3b8669Bd41E22A9257bc6a6Bc6
 # Burn      : 420,000,000 crwd
 - https://bscscan.com/tx/0xc1ec30556f3c1f548198618a9d062224a38e9456ffa9348702be28b1d33e5284
 # Contracts : 580,000,000 crwd
